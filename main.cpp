@@ -36,7 +36,7 @@ int main()
 
     for(int i = 0 ; i<2;i++){
         id = new indiv();
-        //cout<<i<<" "<<endl;
+        cout<<i<<" "<<endl;
         delete id;
     }
 
